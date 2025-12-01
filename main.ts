@@ -12,7 +12,7 @@ const VOLUME: number = 1000;
 
 // PROCESS
 // calculate the side length (cube root)
-let side: number = Math.cbrt(VOLUME);
+const side: number = Math.cbrt(VOLUME);
 
 // OUTPUT
 // display the result
